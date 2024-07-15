@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Jaren 👋
+
+--- student at NUS ---
 
 <!--
 **yoshnus/yoshnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
